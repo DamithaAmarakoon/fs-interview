@@ -1,0 +1,17 @@
+.container {
+  margin: 5em;
+}
+
+.timer {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1rem;
+}
+
+.timer button {
+  margin-left: 2rem;
+}
+
+.add {
+  padding: 1rem;
+}
